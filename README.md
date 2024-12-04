@@ -20,7 +20,7 @@
 
 1. **Необходим дополнительный софт и доступ к нему:**  
    - Конвертер изображений **ImageMagick**: https://imagemagick.org/script/download.php#windows версии *"Win64 dynamic at 16 bits-per-pixel component with High-dynamic-range imaging enabled"*.
-   - Добавьте в системную перемнную ***Path*** путь к команде **magick.exe**, например: ``C:\Program Files\ImageMagick-7.1.1-Q16-HDRI``, 
+   - Добавьте в системную переменную ***Path*** путь к команде **magick.exe**, например: ``C:\Program Files\ImageMagick-7.1.1-Q16-HDRI``, 
      чтобы с любого каталога запускалась команда **"magick"**.
 
 2. **Исходные файлы будут удалены!**  
